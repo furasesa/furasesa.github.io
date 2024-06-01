@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://furasesa.github.io/sitemap.xml
