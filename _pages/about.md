@@ -9,7 +9,6 @@ profile:
   image: AnggaWP_Formal_Blue.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>+62 82132282818</p>
     <p>Puri Mondoteko, Jl. Puri Utara II / No. 3-5</p>
     <p>Rembang, Jawa Tengah 59251</p>
 

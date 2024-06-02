@@ -2,11 +2,11 @@
   "basics": {
     "name": "Angga Wahyu Prasetia",
     "label": "Marine Engineering",
-    "image": "",
+    "image": "assets/img/AnggaWP_Formal_Red.jpg",
     "email": "angga.furasesa@gmail.com",
     "phone": "(+62) 82132282818",
     "url": "https://furasesa.github.io/",
-    "summary": "To be the best engineer",
+    "vision": "To be the best engineer",
     "location": {
       "address": "Jl Puri Utara II No 3-5",
       "postalCode": "59251",
@@ -130,36 +130,66 @@
     {
       "name": "Design Engineer",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Robotic", "Solidworks", "Ansys", "C/C++", "Python3"]
+      "keywords": ["Solidworks", "OnShape", "Ondsel-ES", "Fusion-360"]
+    },
+    {
+      "name": "Embedded System Developer",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["Espressif", "STM32", "Raspberry Pi / like", "C/C++", "Python3"]
     }
   ],
   "projects": [
     {
+      "name": "AuRA",
+      "date": "2023-06",
+      "summary": "Automatic Robot Assistant",
+      "highlights": ["Solidworks, EDA, Raspberry Pi, Arduino, C Program, Python3 Program, html, JS, Shell, Audio Engineering"],
+      "client": ["Krenova Bappeda"]
+    },
+    {
+      "name": "RoMeO",
+      "date": "2023-01",
+      "summary": "Robot Meja Otomatis",
+      "highlights": ["Solidworks, EDA, Fritzing, Espressif, C Program, html, JS"],
+      "client": ["Krenova Bappeda"]
+    },
+    {
+      "name": "PLEM",
+      "date": "2020-08",
+      "summary": "Pipeline End Manifold",
+      "highlights": ["Solidworks Simulations, Ansys"]
+    },
+    {
       "name": "Pneumatic System",
+      "date": "2015-2022",
       "summary": "Loading/Unloading system of bulk oil & gas transport",
       "highlights": ["Pneumatic System, BIM Modelling, FEM Static Analysis, Technical Support, Troubleshooter"],
       "client": ["PT. Muntjul Diamond, PT. Metal Hitech Engineering"]
     },
     {
       "name": "Hydraulic System",
+      "date": "2015-2022",
       "summary": "Loading/Unloading of Wing Box Logistic Truck, Heavy Lifting, Portable Winding",
       "highlights": ["Hydraulic System, Pneumatic System, Technical Support, Troubleshooter."],
       "client": ["PT. Muntjul Diamond, PT. Metal Hitech Engineering"]
     },
     {
       "name": "Heavy Lifting Storage Tank",
+      "date": "2015-2022",
       "summary": "Jack Up Structure of storage tank up to 200MT",
       "highlights": ["Hydraulic System, FEM Analysis, Hydraulic System, Heavy Current"],
       "client": ["PT. Sarana Remaja Mandiri, PT. Laban Raya"]
     },
     {
       "name": "Panzer's Wheel Ejector",
+      "date": "2015-2022",
       "summary": "Wheel Ejector",
       "highlights": ["FEA, Cost Optimizations, Pneumatic System, Heavy Current, Control & Instrumentation."],
       "client": ["PINDAD"]
     },
     {
       "name": "Manual Winding System, Winch System",
+      "date": "2015-2022",
       "summary": "Precision winding based on encoder and Variable Frequency Driver",
       "highlights": ["BIM Modelling, Hydraulic System, Fitter, Heavy Current, VFD"],
       "client": ["PT. Muntjul Diamond"]
