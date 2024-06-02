@@ -30,8 +30,6 @@ Ansys Workbench is node like for a personal project platform that lets you manag
     PLEM Workbench
 </div>
 
-The Repository hosted on google drive contains only the converted 3D model geometry, because the data source contains copyright and protected by original intellectual property. see link here : <a href="https://drive.google.com/drive/folders/1QkuB2RhzFVh1ENbwf89W8IkfZZy5FNkE">PLEM</a>.
-
 ## Preview & Downloads
 
-<a href="https://drive.google.com/drive/folders/1QkuB2RhzFVh1ENbwf89W8IkfZZy5FNkE?usp=drive_link">Google Drive</a>
+The Repository hosted on google drive contains only the converted 3D model geometry, because the data source contains copyright and protected by original intellectual property <a href="https://drive.google.com/drive/folders/1QkuB2RhzFVh1ENbwf89W8IkfZZy5FNkE?usp=drive_link">Google Drive</a>

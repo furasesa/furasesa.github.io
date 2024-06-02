@@ -8,7 +8,7 @@ category: work
 # related_publications: true
 ---
 
-<b>AuRA</b> (<b>Au</b>tomatic b>R</b>obot b>A</b>ssistant) is a smart robot to help distribute patient needs, increase the work efficiency of medical staff and reduce the level of interaction between medical staff and patients. AuRA has several components
+<b>AuRA</b> (<b>Au</b>tomatic <b>R</b>obot <b>A</b>ssistant) is a smart robot to help distribute patient needs, increase the work efficiency of medical staff and reduce the level of interaction between medical staff and patients. AuRA has several components
 
 <ol>
     <li> a Single Board Computer of Raspberry Pi which makes the robot have various smart features</li>
