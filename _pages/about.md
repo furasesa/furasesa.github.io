@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>+62 82132282818</p>
+    <p>Puri Mondoteko, Jl. Puri Utara II / No. 3-5</p>
+    <p>Rembang, Jawa Tengah 59251</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
