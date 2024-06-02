@@ -29,7 +29,7 @@ Automatic Robot Assistant (AuRA) is a smart robot to help distribute patient nee
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/AuRA/Aura_Produk2.jpeg" title="Aura_Produk2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/AuRA/AuRA_Produk2.jpeg" title="AuRA_Produk2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
