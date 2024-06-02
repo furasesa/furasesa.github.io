@@ -27,8 +27,8 @@
       "name": "Kinetik Hydrotech",
       "position": "Engineering Consultant, Design Engineer",
       "url": "",
-      "startDate": "2015-02-01",
-      "endDate": "2022-10-20",
+      "startDate": "2015-02",
+      "endDate": "2022-10",
       "summary": "Design Engineer of Industrial Machinery for hydraulic and pneumatic, developer of prototype board MCU / SBC, programmer of C/C++ and python3",
       "highlights": ["Design Engineer, C/C++ & Python Programmer, Instrumentation, Management"]
     }
@@ -39,8 +39,8 @@
       "location": "Pati, Jawa Tengah",
       "position": "Robotic Traineer",
       "url": "",
-      "startDate": "2023-12-01",
-      "endDate": "2024-01-15",
+      "startDate": "2023-12",
+      "endDate": "2024-01",
       "summary": "Teaches basic electronics, programming and robotics",
       "highlights": ["Arduino, Espressif, STM32, Raspberry Pi"]
     }
@@ -141,55 +141,63 @@
   "projects": [
     {
       "name": "AuRA",
-      "date": "2023-06",
+      "startDate": "2023-06",
+      "endDate": "2023-02",
       "summary": "Automatic Robot Assistant",
       "highlights": ["Solidworks, EDA, Raspberry Pi, Arduino, C Program, Python3 Program, html, JS, Shell, Audio Engineering"],
       "client": ["Krenova Bappeda"]
     },
     {
       "name": "RoMeO",
-      "date": "2023-01",
+      "startDate": "2022-12",
+      "endDate": "2023-02",
       "summary": "Robot Meja Otomatis",
       "highlights": ["Solidworks, EDA, Fritzing, Espressif, C Program, html, JS"],
       "client": ["Krenova Bappeda"]
     },
     {
       "name": "PLEM",
-      "date": "2020-08",
+      "startDate": "2023-06",
+      "endDate": "2023-06",
       "summary": "Pipeline End Manifold",
       "highlights": ["Solidworks Simulations, Ansys"]
     },
     {
       "name": "Pneumatic System",
-      "date": "2015-2022",
+      "startDate": "2015-02",
+      "endDate": "2022-10",
       "summary": "Loading/Unloading system of bulk oil & gas transport",
       "highlights": ["Pneumatic System, BIM Modelling, FEM Static Analysis, Technical Support, Troubleshooter"],
       "client": ["PT. Muntjul Diamond, PT. Metal Hitech Engineering"]
     },
     {
       "name": "Hydraulic System",
-      "date": "2015-2022",
+      "startDate": "2015-02",
+      "endDate": "2022-10",
       "summary": "Loading/Unloading of Wing Box Logistic Truck, Heavy Lifting, Portable Winding",
       "highlights": ["Hydraulic System, Pneumatic System, Technical Support, Troubleshooter."],
       "client": ["PT. Muntjul Diamond, PT. Metal Hitech Engineering"]
     },
     {
       "name": "Heavy Lifting Storage Tank",
-      "date": "2015-2022",
+      "startDate": "2015-02",
+      "endDate": "2022-10",
       "summary": "Jack Up Structure of storage tank up to 200MT",
       "highlights": ["Hydraulic System, FEM Analysis, Hydraulic System, Heavy Current"],
       "client": ["PT. Sarana Remaja Mandiri, PT. Laban Raya"]
     },
     {
       "name": "Panzer's Wheel Ejector",
-      "date": "2015-2022",
+      "startDate": "2015-02",
+      "endDate": "2022-10",
       "summary": "Wheel Ejector",
       "highlights": ["FEA, Cost Optimizations, Pneumatic System, Heavy Current, Control & Instrumentation."],
       "client": ["PINDAD"]
     },
     {
       "name": "Manual Winding System, Winch System",
-      "date": "2015-2022",
+      "startDate": "2015-02",
+      "endDate": "2022-10",
       "summary": "Precision winding based on encoder and Variable Frequency Driver",
       "highlights": ["BIM Modelling, Hydraulic System, Fitter, Heavy Current, VFD"],
       "client": ["PT. Muntjul Diamond"]
