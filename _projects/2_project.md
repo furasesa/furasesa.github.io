@@ -57,3 +57,7 @@ Here is the full assembly of RoMeO drawn with Solidworks software.
 <div class="caption">
     RoMeO Full Assembly
 </div>
+
+## Preview & Downloads
+
+<a href="https://drive.google.com/drive/folders/1kGFEWLUqQobj9hZ-jzsF57xCkj0ErnB9?usp=drive_link">Google Drive</a>

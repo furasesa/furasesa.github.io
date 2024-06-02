@@ -141,6 +141,7 @@
   "projects": [
     {
       "name": "AuRA",
+      "url": "https://furasesa.github.io/projects/1_project/",
       "startDate": "2023-06",
       "endDate": "2023-02",
       "summary": "Automatic Robot Assistant",
@@ -149,6 +150,7 @@
     },
     {
       "name": "RoMeO",
+      "url": "https://furasesa.github.io/projects/2_project/",
       "startDate": "2022-12",
       "endDate": "2023-02",
       "summary": "Robot Meja Otomatis",
@@ -157,6 +159,7 @@
     },
     {
       "name": "PLEM",
+      "url": "https://furasesa.github.io/projects/3_project/",
       "startDate": "2023-06",
       "endDate": "2023-06",
       "summary": "Pipeline End Manifold",

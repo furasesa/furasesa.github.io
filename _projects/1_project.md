@@ -8,7 +8,7 @@ category: work
 # related_publications: true
 ---
 
-<b>AuRA</b> (Automatic Robot Assistant) is a smart robot to help distribute patient needs, increase the work efficiency of medical staff and reduce the level of interaction between medical staff and patients. AuRA has several components
+<b>AuRA</b> (<b>Au</b>tomatic b>R</b>obot b>A</b>ssistant) is a smart robot to help distribute patient needs, increase the work efficiency of medical staff and reduce the level of interaction between medical staff and patients. AuRA has several components
 
 <ol>
     <li> a Single Board Computer of Raspberry Pi which makes the robot have various smart features</li>
@@ -16,6 +16,8 @@ category: work
     <li> 14 inch monitor screen with IR 5MP Camera and digital microphone which makes it easier for patients to consult with nurses. </li>   
 </ol>
 AuRA is multifunctional because it is not only used to deliver patient needs but also as a communication medium in hospital services.
+
+See <a href="https://pindah.jatengprov.go.id/inovasi/detail/1416">Jatengprov</a>
 
 ## Prototype - Audio
 
@@ -169,3 +171,7 @@ now aura has specifications :
     <li>Stereo Loudspeaker</li>
     <li>24V, 3AH</li>
 </lo>
+
+## Preview & Downloads
+
+<a href="https://drive.google.com/drive/folders/1eMAHjcXkFrSkh8H-LODRxvmnD9GICPOp?usp=drive_link">Google Drive</a>
