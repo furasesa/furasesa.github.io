@@ -2,7 +2,7 @@
 layout: page
 title: Robotic - AuRA
 description: Automatic Robot Assistant
-img: assets/img/projects/AuRA/produk.gif
+img: assets/img/projects/AuRA/produk/produk.gif
 importance: 1
 category: work
 # related_publications: true
@@ -67,7 +67,7 @@ By using Arduino as a motor controller connected to the H-Bridge motor
     </div>
 </div>
 
-After everything goes well, the next step is to design the place so that it is protected
+After everything goes well, the next step is to design the case so that it is protected
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -148,7 +148,10 @@ Long story short, creating model geometry for assembling the monitor
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/AuRA/AuRA_Produk2.jpeg" title="AuRA_Produk2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="lazy" path="assets/img/projects/AuRA/produk/produk1.jpg" title="produk1" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="lazy" path="assets/img/projects/AuRA/produk/produk2.jpg" title="produk2" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -156,15 +159,6 @@ Long story short, creating model geometry for assembling the monitor
 </div>
 
 now aura has specifications :
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="lazy" path="assets/img/projects/AuRA/produk1.jpg" title="sw_design" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="lazy" path="assets/img/projects/AuRA/produk2.jpg" title="result" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
 
 <lo>
     <li>BCM2837B0, Cortex-A53 (ARMv8) 64-bit SoC @ 1.4GHz 1GB LPDDR2 SDRAM</li>
