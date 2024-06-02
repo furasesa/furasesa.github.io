@@ -22,7 +22,7 @@ Hi My name is Angga Wahyu Prasetia, you can call me Angga. Throughout my present
 
 I studied as a Design Engineer at MMD Laboratory (Marine Manufacturing and Design), with Solidworks as a main software to deal with 2D drafting, 3D Model, as well as FEA Simulation. Because of licensing, I also work with other alternatives, Inventor now fusion 360, and onshape for collaboration work. I believe that good design will make work and costs more cost effective, precise, and able to work with certain design parameters.
 
-In advance, I am confident with my electrical skill (both heavy and light current) and programming skill. With my capabilities in  design, electrical, and as a programmer, I made some prototypes for fun.
+In advance, I am confident with my electrical skill (both heavy and light current) and programming skill. With my capabilities in design, electrical, and as a programmer, I made some prototypes for fun.
 
 I Believe the technology is the key of the industry nowadays and in the future to support my previous company’s business. I, myself keep a sight of these trends as a new adoption for industry.
 
