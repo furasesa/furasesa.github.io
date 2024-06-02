@@ -2,7 +2,7 @@
 layout: page
 title: Robotic - AuRA
 description: Automatic Robot Assistant
-img: assets/img/projects/Aura_Produk1.jpeg
+img: assets/img/projects/AuRA_VideoProduk.gif
 importance: 1
 category: work
 related_publications: true
