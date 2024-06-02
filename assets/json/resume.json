@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Angga Wahyu Prasetia",
-    "label": "Marine Engineer",
+    "label": "Marine Engineering",
     "image": "",
     "email": "angga.furasesa@gmail.com",
     "phone": "(+62) 82132282818",
@@ -29,11 +29,11 @@
       "url": "",
       "startDate": "2015-02-01",
       "endDate": "2022-10-20",
-      "summary": "Designer of Industrial Machinery for hydraulic and pneumatic, developer of prototype board MCU / SBC, programmer of C/C++ and python3",
-      "highlights": ["Design Engineer, C/C++ & Python Programmer, Management"]
+      "summary": "Design Engineer of Industrial Machinery for hydraulic and pneumatic, developer of prototype board MCU / SBC, programmer of C/C++ and python3",
+      "highlights": ["Design Engineer, C/C++ & Python Programmer, Instrumentation, Management"]
     }
   ],
-  "volunteer": [
+  "mentor": [
     {
       "organization": "Osbit SMA N.1",
       "location": "Pati, Jawa Tengah",
@@ -49,13 +49,24 @@
     {
       "institution": "Institute Technology of Sepuluh Nopember",
       "location": "Surabaya, Jawa Timur",
-      "url": "https://its.ac.id/",
+      "url": "https://www.its.ac.id/siskal/",
       "area": "Marine Engineering, Marine Manufacturing and Design",
       "studyType": "Bachelor's Degree",
       "startDate": "2012",
       "endDate": "2014",
       "score": "3,43",
-      "courses": ["Solidworks, CFD, CAD"]
+      "courses": ["Solidworks, CFD, Ship Structure, HVAC-R, WI, Marine Engineering, Piping System, Marine Enterprise, LNG Tech"]
+    },
+    {
+      "institution": "Diponegoro University",
+      "location": "Semarang, Jawa Tengah",
+      "url": "https://perkapalan.ft.undip.ac.id/",
+      "area": "Naval Architecture",
+      "studyType": "Associate Degree",
+      "startDate": "2008",
+      "endDate": "2011",
+      "score": "3,03",
+      "courses": ["Autocad, BricsCad, Ship Design, Ship Drawing, Ship Building"]
     }
   ],
   "awards": [
@@ -73,69 +84,85 @@
       "date": "2023",
       "issuer": "PT. Arisma Data Setia",
       "url": "https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-HSGMJXBE9N",
-      "icon": "fa-solid fa-location-dot"
+      "icon": "fa-solid fa-tag"
     }
   ],
-  "publications": [
-    
-  ],
+  "publications": [],
   "skills": [
     {
       "name": "Solidworks",
       "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Solidworks Modeling",
-        "Solidworks Sheet Metal",
-        "Solidworks Simulations"
-      ]
+      "icon": "fa-solid fa-tag",
+      "keywords": ["Solidworks Modeling", "Solidworks Sheet Metal", "Solidworks Simulations"]
+    },
+    {
+      "name": "Inventor/Fusion 360, On-Shape, FreeCAD/Ondsel",
+      "level": "Expert",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["Collaboration Modelling"]
+    },
+    {
+      "name": "Hydraulic & Pneumatic Engineer",
+      "level": "Expert",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["System Engineer, Piping System, Fitter, Designer, Industrial Machinery"]
+    },
+    {
+      "name": "Autocad, NanoCAD",
+      "level": "Expert",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["2D Drafting"]
     }
   ],
   "languages": [
     {
       "language": "Indonesia",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "fa-solid fa-hashtag"
     },
     {
       "language": "English",
       "fluency": "Pasif",
-      "icon": ""
+      "icon": "fa-solid fa-hashtag"
     }
   ],
   "interests": [
     {
       "name": "Design Engineer",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Robotic",
-        "Solidworks",
-        "Ansys",
-        "C/C++",
-        "Python3"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "keywords": ["Robotic", "Solidworks", "Ansys", "C/C++", "Python3"]
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Pneumatic System",
+      "summary": "Loading/Unloading system of bulk oil & gas transport",
+      "highlights": ["Pneumatic System, BIM Modelling, FEM Static Analysis, Technical Support, Troubleshooter"],
+      "client": ["PT. Muntjul Diamond, PT. Metal Hitech Engineering"]
+    },
+    {
+      "name": "Hydraulic System",
+      "summary": "Loading/Unloading of Wing Box Logistic Truck, Heavy Lifting, Portable Winding",
+      "highlights": ["Hydraulic System, Pneumatic System, Technical Support, Troubleshooter."],
+      "client": ["PT. Muntjul Diamond, PT. Metal Hitech Engineering"]
+    },
+    {
+      "name": "Heavy Lifting Storage Tank",
+      "summary": "Jack Up Structure of storage tank up to 200MT",
+      "highlights": ["Hydraulic System, FEM Analysis, Hydraulic System, Heavy Current"],
+      "client": ["PT. Sarana Remaja Mandiri, PT. Laban Raya"]
+    },
+    {
+      "name": "Panzer's Wheel Ejector",
+      "summary": "Wheel Ejector",
+      "highlights": ["FEA, Cost Optimizations, Pneumatic System, Heavy Current, Control & Instrumentation."],
+      "client": ["PINDAD"]
+    },
+    {
+      "name": "Manual Winding System, Winch System",
+      "summary": "Precision winding based on encoder and Variable Frequency Driver",
+      "highlights": ["BIM Modelling, Hydraulic System, Fitter, Heavy Current, VFD"],
+      "client": ["PT. Muntjul Diamond"]
     }
   ]
 }
