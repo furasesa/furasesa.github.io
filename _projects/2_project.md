@@ -2,7 +2,7 @@
 layout: page
 title: Robotic - RoMeO
 description: Robot Meja Otomatis
-img: assets/img/projects/RoMeO/RoMeo_Produk.png
+img: assets/img/projects/RoMeO/RoMeO_Produk.png
 # redirect: https://unsplash.com
 importance: 2
 category: work
