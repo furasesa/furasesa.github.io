@@ -307,30 +307,31 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
-# scholar:
-#   last_name: [Prasetia]
-#   first_name: [Angga Wahyu]
+scholar:
+  last_name: [Prasetia]
+  first_name: [Angga Wahyu]
 
-#   style: apa
-#   locale: en
+  style: apa
+  locale: en
 
-#   source: /_bibliography/
-#   bibliography: papers.bib
-#   bibliography_template: bib
-#   # Note: if you have latex math in your bibtex, the latex filter
-#   # preprocessing may conflict with MathJAX if the latter is enabled.
-#   # See https://github.com/alshedivat/al-folio/issues/357.
-#   bibtex_filters: [latex, smallcaps, superscript]
+  source: /_bibliography/
+  bibliography: papers.bib
+  bibliography_template: bib
 
-#   replace_strings: true
-#   join_strings: true
+  #   # Note: if you have latex math in your bibtex, the latex filter
+  #   # preprocessing may conflict with MathJAX if the latter is enabled.
+  #   # See https://github.com/alshedivat/al-folio/issues/357.
+  bibtex_filters: [latex, smallcaps, superscript]
 
-#   details_dir: bibliography
-#   details_link: Details
+  replace_strings: true
+  join_strings: true
 
-#   query: "@*"
-#   group_by: year
-#   group_order: descending
+  details_dir: bibliography
+  details_link: Details
+
+  query: "@*"
+  group_by: year
+  group_order: descending
 
 # Display different badges withs stats for your publications
 # enable_publication_badges:
@@ -339,28 +340,28 @@ display_categories: ["blockquotes"] # these categories will be displayed on the 
 #   google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
-# filtered_bibtex_keywords:
-#   [
-#     abbr,
-#     abstract,
-#     additional_info,
-#     altmetric,
-#     arxiv,
-#     award,
-#     award_name,
-#     bibtex_show,
-#     blog,
-#     code,
-#     html,
-#     pdf,
-#     poster,
-#     preview,
-#     selected,
-#     slides,
-#     supp,
-#     video,
-#     website,
-#   ]
+filtered_bibtex_keywords:
+  [
+    abbr,
+    abstract,
+    additional_info,
+    altmetric,
+    arxiv,
+    award,
+    award_name,
+    bibtex_show,
+    blog,
+    code,
+    html,
+    pdf,
+    poster,
+    preview,
+    selected,
+    slides,
+    supp,
+    video,
+    website,
+  ]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
 # max_author_limit: 3 # leave blank to always show all authors
