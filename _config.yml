@@ -225,7 +225,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages"]
+#include: ["_pages"]
 exclude:
   - bin/
   - CONTRIBUTING.md
@@ -314,7 +314,7 @@ scholar:
   first_name: [Angga Wahyu]
 
   style: apa
-  locale: en
+  locale: id_EN
 
   source: /_bibliography/
   bibliography: papers.bib

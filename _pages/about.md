@@ -6,10 +6,9 @@ subtitle: <a href='#'>Design Engineer</a>. To Be The Best Engineer
 
 profile:
   align: right
-  image: AnggaWP_Formal_Blue.jpg
+  image: angga_wahyu_prasetia.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Puri Mondoteko, Jl. Puri Utara II / No. 3-5</p>
     <p>Rembang, Jawa Tengah 59251</p>
 
 news: true # includes a list of news items
@@ -17,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, My name is <b>Angga Wahyu Prasetia</b>, you can call me <b>Angga</b>. Throughout my present professional career, I have undertaken various developments with utmost sincerity. After graduation from <b>Marine Engineering of ITS</b>, I worked on <b>Kinetik Hydrotech</b> for 7 years to maximize my abilities. I come from a solid engineering background with a strong interest in business and a passion towards strategy.
+Hi, My name is <b>Angga Wahyu Prasetia</b>, you can call me <b>Angga</b>. Throughout my present professional career, I have undertaken various developments with utmost sincerity. After graduation from <b>Marine Engineering of ITS</b>, I worked on <b>Kinetik Hydrotec</b> for 7 years to maximize my abilities. I come from a solid engineering background with a strong interest in business and a passion towards strategy.
 
 I studied as a <b>Design Engineer at MMD Laboratory (Marine Manufacturing and Design)</b>, with Solidworks as a main software to deal with 2D drafting, 3D Model, as well as FEA Simulation. Because of licensing, I also work with other alternatives, Inventor now fusion 360, and OnShape for collaboration work. I believe that good design will make work and costs more cost effective, precise, and able to work with certain design parameters.
 
