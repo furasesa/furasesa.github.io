@@ -16,13 +16,27 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, My name is <b>Angga Wahyu Prasetia</b>, you can call me <b>Angga</b>. Throughout my present professional career, I have undertaken various developments with utmost sincerity. After graduation from <b>Marine Engineering of ITS</b>, I worked on <b>Kinetik Hydrotec</b> for 7 years to maximize my abilities. I come from a solid engineering background with a strong interest in business and a passion towards strategy.
+<p>
+  I am Angga Wahyu Prasetia, a System Engineer with a Bachelor’s degree in Marine Engineering from ITS and over seven years of experience in mechanical design, control systems, embedded software, and systems integration.
+</p>
+<ul>
+  <li><strong>3D CAD &amp; FEA</strong><br>
+    I have crafted parametric models and conducted simulation-driven optimizations using SolidWorks and OnShape, delivering precise, cost-effective designs.
+  </li>
+  <li><strong>Hydraulic &amp; Pneumatic Systems</strong><br>
+    I have designed and manufactured industrial hydraulic and pneumatic assemblies, integrating electrical drives and mechanical components into cohesive control architectures for maximum reliability.
+  </li>
+  <li><strong>Embedded &amp; SBC Automation Software</strong><br>
+    I have architected Linux infrastructures on SBC/ARM platforms, deployed private-cloud environments, and integrated SBC and MCU devices to enable IoT and facility automation. I also develop C firmware and Python 3 automation scripts to prototype solutions, validate concepts, and streamline R&amp;D workflows.
+  </li>
+  <li><strong>Business &amp; Operations</strong><br>
+    I have negotiated vendor contracts, optimized procurement processes, managed VAT invoicing and tax reporting, and coordinated documentation to keep projects on track.
+  </li>
+</ul>
+<p>
+  I thrive on turning complex challenges into streamlined, cost-effective solutions and continually explore emerging technologies to drive innovation and growth.
+</p>
 
-I studied as a <b>Design Engineer at MMD Laboratory (Marine Manufacturing and Design)</b>, with Solidworks as a main software to deal with 2D drafting, 3D Model, as well as FEA Simulation. Because of licensing, I also work with other alternatives, Inventor now fusion 360, and OnShape for collaboration work. I believe that good design will make work and costs more cost effective, precise, and able to work with certain design parameters.
-
-In advance, I am confident with my electrical skill (both heavy and light current) and fair enough programming skill. With my capabilities in design, electrical, and as a programmer, I made some prototypes for fun.
-
-I Believe the technology is the key of the industry nowadays and in the future to support my company’s business. I, myself keep a sight of these trends as a new adoption for industry.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
