@@ -40,7 +40,7 @@
       "position": "Robotic Traineer",
       "url": "",
       "startDate": "2023-12",
-      "endDate": "2024-01",
+      "endDate": "2024",
       "summary": "Teaches basic electronics, programming and robotics",
       "highlights": ["Arduino, Espressif, STM32, Raspberry Pi"]
     }
@@ -96,22 +96,40 @@
       "keywords": ["Solidworks Modeling", "Solidworks Sheet Metal", "Solidworks Simulations"]
     },
     {
-      "name": "Inventor/Fusion 360, On-Shape, FreeCAD/Ondsel",
+      "name": "On-Shape, FreeCAD/Ondsel",
       "level": "Expert",
       "icon": "fa-solid fa-tag",
       "keywords": ["Collaboration Modelling"]
     },
     {
-      "name": "Hydraulic & Pneumatic Engineer",
+      "name": "Hydraulic & Pneumatic Engineering",
       "level": "Expert",
       "icon": "fa-solid fa-tag",
-      "keywords": ["System Engineer, Piping System, Fitter, Designer, Industrial Machinery"]
+      "keywords": ["System & Design Engineering, Fitter, Industrial Machinery, Mechatronics, VFD, Industrial Electrical 1 phase or 3 phase"]
+    },
+    {
+      "name": "Embedded Hardware & Software",
+      "level": "Expert",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["Linux Server, Media Server, Private Cloud (Raid System), Networking (OpenWRT), Audio Engineering, C/C++, Python3, Home Assistant"]
     },
     {
       "name": "Autocad, NanoCAD",
       "level": "Expert",
       "icon": "fa-solid fa-tag",
       "keywords": ["2D Drafting"]
+    },
+    {
+      "name": "Office",
+      "level": "Expert",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["Excel Formula, Pivot, Excel automation, Spreadsheet, Python, LibreOffice, OnlyOffice, Draw, CoreTax"]
+    },
+    {
+      "name": "3D Mesh / Mobile Renderer",
+      "level": "Advanced",
+      "icon": "fa-solid fa-tag",
+      "keywords": ["Blender, Godot Engine, GDScript, C/C++"]
     }
   ],
   "languages": [
@@ -122,20 +140,20 @@
     },
     {
       "language": "English",
-      "fluency": "Pasif",
+      "fluency": "Fluent",
       "icon": "fa-solid fa-hashtag"
     }
   ],
   "interests": [
     {
-      "name": "Design Engineer",
+      "name": "Design Engineering",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Solidworks", "OnShape", "Ondsel-ES", "Fusion-360"]
+      "keywords": ["Solidworks", "OnShape", "Ondsel-ES"]
     },
     {
-      "name": "Embedded System Developer",
+      "name": "Embedded System Developer / SBC Developer Platform",
       "icon": "fa-solid fa-tag",
-      "keywords": ["Espressif", "STM32", "Raspberry Pi / like", "C/C++", "Python3"]
+      "keywords": ["Espressif", "STM32", "Computer Science", "System Developer", "C/C++", "Python3"]
     }
   ],
   "projects": [
@@ -145,7 +163,7 @@
       "startDate": "2023-06",
       "endDate": "2023-02",
       "summary": "Automatic Robot Assistant",
-      "highlights": ["Solidworks, EDA, Raspberry Pi, Arduino, C Program, Python3 Program, html, JS, Shell, Audio Engineering"],
+      "highlights": ["Solidworks, EDA, Raspberry Pi, Arduino, C Program, Python3 Program, html, JS, Linux Shell, Digital Audio Engineering"],
       "client": ["Krenova Bappeda"]
     },
     {
@@ -154,8 +172,7 @@
       "startDate": "2022-12",
       "endDate": "2023-02",
       "summary": "Robot Meja Otomatis",
-      "highlights": ["Solidworks, EDA, Fritzing, Espressif, C Program, html, JS"],
-      "client": ["Krenova Bappeda"]
+      "highlights": ["Solidworks, EDA, Fritzing, Espressif, C Program, html, JS"]
     },
     {
       "name": "PLEM",
@@ -170,40 +187,35 @@
       "startDate": "2015-02",
       "endDate": "2022-10",
       "summary": "Loading/Unloading system of bulk oil & gas transport",
-      "highlights": ["Pneumatic System, BIM Modelling, FEM Static Analysis, Technical Support, Troubleshooter"],
-      "client": ["PT. Muntjul Diamond, PT. Metal Hitech Engineering"]
+      "highlights": ["Pneumatic System, BIM Modelling, FEM Static Analysis, Technical Support, Troubleshooter"]
     },
     {
       "name": "Hydraulic System",
       "startDate": "2015-02",
       "endDate": "2022-10",
       "summary": "Loading/Unloading of Wing Box Logistic Truck, Heavy Lifting, Portable Winding",
-      "highlights": ["Hydraulic System, Pneumatic System, Technical Support, Troubleshooter."],
-      "client": ["PT. Muntjul Diamond, PT. Metal Hitech Engineering"]
+      "highlights": ["Hydraulic System, Pneumatic System, Technical Support, Troubleshooter."]
     },
     {
       "name": "Heavy Lifting Storage Tank",
       "startDate": "2015-02",
       "endDate": "2022-10",
       "summary": "Jack Up Structure of storage tank up to 200MT",
-      "highlights": ["Hydraulic System, FEM Analysis, Hydraulic System, Heavy Current"],
-      "client": ["PT. Sarana Remaja Mandiri, PT. Laban Raya"]
+      "highlights": ["Hydraulic System, FEM Analysis, Hydraulic System, Heavy Current"]
     },
     {
       "name": "Panzer's Wheel Ejector",
       "startDate": "2015-02",
       "endDate": "2022-10",
       "summary": "Wheel Ejector",
-      "highlights": ["FEA, Cost Optimizations, Pneumatic System, Heavy Current, Control & Instrumentation."],
-      "client": ["PINDAD"]
+      "highlights": ["FEA, Cost Optimizations, Pneumatic System, Heavy Current, Control & Instrumentation."]
     },
     {
       "name": "Manual Winding System, Winch System",
       "startDate": "2015-02",
       "endDate": "2022-10",
       "summary": "Precision winding based on encoder and Variable Frequency Driver",
-      "highlights": ["BIM Modelling, Hydraulic System, Fitter, Heavy Current, VFD"],
-      "client": ["PT. Muntjul Diamond"]
+      "highlights": ["BIM Modelling, Hydraulic System, Fitter, Heavy Current, VFD"]
     }
   ]
 }

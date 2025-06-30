@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Design Engineer</a>. To Be The Best Engineer
+subtitle: <a href='#'>Design Engineer / System Engineer</a>. To Be The Best Engineer
 
 profile:
   align: right
@@ -17,7 +17,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 <p>
-  I am Angga Wahyu Prasetia, a System Engineer with a Bachelor’s degree in Marine Engineering from ITS and over seven years of experience in mechanical design, control systems, embedded software, and systems integration.
+  I am Angga Wahyu Prasetia (“Angga”), a multidisciplinary Design Engineer and System Engineer with a Bachelor’s degree in Marine Engineering from ITS and over seven years of experience in mechanical design, control systems, embedded software, and systems integration.
 </p>
 <ul>
   <li><strong>3D CAD &amp; FEA</strong><br>
